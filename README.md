@@ -12,4 +12,4 @@ Meu nome é Nikolas
   
 
 
-https://tenor.com/pt-BR/view/mark-lee-mark-nct-nct-nct-dream-nct127-gif-21578522
+ ![](https://media1.tenor.com/m/QJIByf3SFXcAAAAd/mark-lee-mark-nct.gif)
