@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, bem vindo ao meu perfil 🐱
 
-<!--
-**itsilynikolas2A/itsilynikolas2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nikolas
 
-Here are some ideas to get you started:
+- Estou estudando alguns projetos na 
+- Estou aprendendo a desenvolver a linguagem JavaScript
+- Este espaço é onde me organizo e compartilho meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  ### Você pode entrar em contato comigo📧
+
+-  nikolassous123abc@gmail.com
+  
+
+
+![](https://tenor.com/pt-BR/view/mark-lee-mark-nct-nct-nct-dream-nct127-gif-215785220)
